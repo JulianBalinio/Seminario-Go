@@ -1,0 +1,22 @@
+Ejercicios obligatorios
+1. Realice un programa que reciba una frase e imprima en pantalla la
+misma frase reemplazando las ocurrencias de “jueves” por “martes”
+respetando las letras minúsculas o mayúsculas de la palabra original en
+su posición correspondiente. Por ejemplo, se reemplaza “Jueves” por
+“Martes” o “jueveS” por “marteS”.
+
+2. Realice las modificaciones necesarias al ejercicio anterior para que en
+lugar de reemplazar la palabra “jueves” por “martes” ahora se
+reemplace “miércoles” por “automóvil”. Piense qué impacto tuvieron
+esas modificaciones en el programa que había realizado.
+PRÁCTICA 1
+
+3. Realice un programa que reciba una palabra como argumento y lee de
+la entrada una frase. Luego, el programa debe imprimir la frase que
+leyó con cada una de las ocurrencias de la palabra con las mayúsculas
+y minúsculas invertidas. Por ejemplo, si la frase es:
+“Parece peqUEño, pero no es tan pequeÑo el PEQUEÑO”
+y la palabra es “PEQUEÑO” entonces el programa imprimirá:
+“Parece PEQueÑO, pero no es tan PEQUEñO el pequeño”
+Tenga en cuenta que la palabra a buscar puede ser ingresada con
+mayúsculas y minúsculas mezcladas.
